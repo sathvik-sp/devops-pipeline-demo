@@ -11,5 +11,11 @@ Demo project to showcase CI/CD with Docker, Kubernetes, and Terraform.
 - Ansible
 - Python Flask
 
-## Status
-🚀 Project initialized – setting up base Flask app next.
+## Progress
+
+- ✅ Base Flask app created
+- ✅ Dockerized locally
+
+## Notes / Challenges
+- Had to fix Docker permissions (`docker` group issue).
+- Will set up Kubernetes deployment (AKS) using Terraform in the next step.
